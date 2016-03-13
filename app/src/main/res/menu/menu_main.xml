@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.vij.one.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_Gujarati"
+        android:title="Gujarati" />
+    <item
+        android:id="@+id/menu_Panjabi"
+        android:title="Panjabi"/>
+    <item
+        android:id="@+id/menu_Chinese"
+        android:title="Chinese" />
+</menu>
